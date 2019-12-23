@@ -1,0 +1,10 @@
+com\springfw\spring5webapp\bootsrap\DevbootStrap.class
+com\springfw\spring5webapp\repositories\PublisherRepository.class
+com\springfw\spring5webapp\controllers\AuthorController.class
+com\springfw\spring5webapp\repositories\AuthorRepository.class
+com\springfw\spring5webapp\model\Author.class
+com\springfw\spring5webapp\model\Book.class
+com\springfw\spring5webapp\Spring5webappApplication.class
+com\springfw\spring5webapp\model\Publisher.class
+com\springfw\spring5webapp\repositories\BookRepostory.class
+com\springfw\spring5webapp\controllers\BookController.class
